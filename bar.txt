@@ -1,4 +1,6 @@
+foo
 zee
 bar
 gii
+this is my real solution for this conflicts
 bar
